@@ -11,7 +11,8 @@ Summary:        A set of mono-spaced OpenType fonts designed for coding environm
  
 License:        OFL
 URL:            https://github.com/adobe-fonts/source-code-pro
-Source0:        https://github.com/adobe-fonts/source-code-pro/archive/%{version_roman}R-ro%2f%{version_italic}R-it.tar.gz#/SourceCodePro-%{version_roman}R-ro-%{version_italic}R-it.tar.gz
+Sources0:       https://github.com/adobe-fonts/source-code-pro/archive/refs/tags/2.030R-ro/1.050R-it/source-code-pro-2.030R-ro-1.050R-it.tar.gz
+#Source0:        https://github.com/adobe-fonts/source-code-pro/archive/%{version_roman}R-ro%2f%{version_italic}R-it.tar.gz#/SourceCodePro-%{version_roman}R-ro-%{version_italic}R-it.tar.gz
 Source1:        %{name}-fontconfig.conf
 Source2:        %{fontname}.metainfo.xml
  

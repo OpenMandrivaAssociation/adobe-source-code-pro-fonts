@@ -6,7 +6,7 @@
  
 Name:           %{fontname}-fonts
 Version:        %{version_roman}.%{version_italic}
-Release:        1
+Release:        2
 Summary:        A set of mono-spaced OpenType fonts designed for coding environments
  
 License:        OFL
